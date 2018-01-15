@@ -1,0 +1,15 @@
+h1 {
+	font: sans-serif;
+	color: white;
+	background-color: #404f57;
+	text-align: center;
+	padding: 25px
+}
+.heading {
+	color: white;
+}
+#kingduck {
+	background-color: white;
+	color: magenta;
+	border: 2px solid magenta;
+}
